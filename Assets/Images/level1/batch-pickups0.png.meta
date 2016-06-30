@@ -1,0 +1,649 @@
+fileFormatVersion: 2
+guid: 2619406df0654e348b1ec30f83135575
+timeCreated: 1465479444
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: batch-pickups0_0
+    21300002: batch-pickups0_1
+    21300004: batch-pickups0_2
+    21300006: batch-pickups0_3
+    21300008: batch-pickups0_4
+    21300010: batch-pickups0_5
+    21300012: batch-pickups0_6
+    21300014: batch-pickups0_7
+    21300016: batch-pickups0_8
+    21300018: batch-pickups0_9
+    21300020: batch-pickups0_10
+    21300022: batch-pickups0_11
+    21300024: batch-pickups0_12
+    21300026: batch-pickups0_13
+    21300028: batch-pickups0_14
+    21300030: batch-pickups0_15
+    21300032: batch-pickups0_16
+    21300034: batch-pickups0_17
+    21300036: batch-pickups0_18
+    21300038: batch-pickups0_19
+    21300040: batch-pickups0_20
+    21300042: batch-pickups0_21
+    21300044: batch-pickups0_22
+    21300046: batch-pickups0_23
+    21300048: batch-pickups0_24
+    21300050: batch-pickups0_25
+    21300052: batch-pickups0_26
+    21300054: batch-pickups0_27
+    21300056: batch-pickups0_28
+    21300058: batch-pickups0_29
+    21300060: batch-pickups0_30
+    21300062: batch-pickups0_31
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: batch-pickups0_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 403
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: batch-pickups0_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 403
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: batch-pickups0_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 399
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: batch-pickups0_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 399
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: batch-pickups0_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 372
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 25}
+    - name: batch-pickups0_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 372
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 25}
+        - {x: -18, y: 18}
+        - {x: -18, y: -23}
+        - {x: -14, y: -25}
+        - {x: 17, y: -25}
+        - {x: 18, y: -23}
+        - {x: 18, y: 20}
+        - {x: 12, y: 25}
+    - name: batch-pickups0_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 372
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 25}
+        - {x: -18, y: 18}
+        - {x: -18, y: -23}
+        - {x: -14, y: -25}
+        - {x: 17, y: -25}
+        - {x: 18, y: -23}
+        - {x: 18, y: 20}
+        - {x: 12, y: 25}
+    - name: batch-pickups0_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 372
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 25}
+        - {x: -25, y: -25}
+        - {x: 25, y: -25}
+        - {x: 25, y: 25}
+    - name: batch-pickups0_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 353
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 34.5}
+        - {x: -31, y: 26.5}
+        - {x: -31, y: -24.5}
+        - {x: -28, y: -34.5}
+        - {x: 30, y: -34.5}
+        - {x: 31, y: -31.5}
+        - {x: 31, y: 26.5}
+        - {x: 23, y: 34.5}
+    - name: batch-pickups0_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 360
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 27}
+        - {x: -28.5, y: 23}
+        - {x: -28.5, y: -24}
+        - {x: -18.5, y: -27}
+        - {x: 28.5, y: -27}
+        - {x: 28.5, y: 23}
+        - {x: 27.5, y: 27}
+    - name: batch-pickups0_10
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 360
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 27}
+        - {x: -28.5, y: 17}
+        - {x: -28.5, y: -13}
+        - {x: -22.5, y: -27}
+        - {x: 18.5, y: -27}
+        - {x: 28.5, y: -15}
+        - {x: 28.5, y: 14}
+        - {x: 17.5, y: 27}
+    - name: batch-pickups0_11
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 359
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 27.5}
+        - {x: -28, y: 26.5}
+        - {x: -28, y: -24.5}
+        - {x: -16, y: -27.5}
+        - {x: 22, y: -27.5}
+        - {x: 28, y: -22.5}
+        - {x: 28, y: 17.5}
+        - {x: 24, y: 27.5}
+    - name: batch-pickups0_12
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 360
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 27}
+        - {x: -27.5, y: 25}
+        - {x: -27.5, y: -24}
+        - {x: -21.5, y: -27}
+        - {x: 27.5, y: -27}
+        - {x: 27.5, y: 24}
+        - {x: 25.5, y: 27}
+    - name: batch-pickups0_13
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 360
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 27}
+        - {x: -28, y: 20}
+        - {x: -28, y: -18}
+        - {x: -18, y: -27}
+        - {x: 19, y: -27}
+        - {x: 28, y: -21}
+        - {x: 28, y: 22}
+        - {x: 20, y: 27}
+    - name: batch-pickups0_14
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 360
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 27}
+        - {x: -28, y: 24}
+        - {x: -28, y: -23}
+        - {x: -25, y: -27}
+        - {x: 22, y: -27}
+        - {x: 28, y: -25}
+        - {x: 28, y: 19}
+        - {x: 21, y: 27}
+    - name: batch-pickups0_15
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 360
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 27}
+        - {x: -28, y: 20}
+        - {x: -28, y: -19}
+        - {x: -20, y: -27}
+        - {x: 18, y: -27}
+        - {x: 28, y: -16}
+        - {x: 28, y: 14}
+        - {x: 19, y: 27}
+    - name: batch-pickups0_16
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 359
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 27.5}
+        - {x: -28, y: 24.5}
+        - {x: -28, y: -21.5}
+        - {x: -18, y: -27.5}
+        - {x: 24, y: -27.5}
+        - {x: 28, y: -22.5}
+        - {x: 28, y: 15.5}
+        - {x: 21, y: 27.5}
+    - name: batch-pickups0_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 279
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 34}
+        - {x: -31, y: -32}
+        - {x: -29, y: -34}
+        - {x: 29, y: -34}
+        - {x: 31, y: -27}
+        - {x: 31, y: 28}
+        - {x: 25, y: 34}
+    - name: batch-pickups0_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 282
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 34}
+        - {x: -31, y: 30}
+        - {x: -31, y: -32}
+        - {x: -28, y: -34}
+        - {x: 25, y: -34}
+        - {x: 31, y: -28}
+        - {x: 31, y: 28}
+        - {x: 23, y: 34}
+    - name: batch-pickups0_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 284
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 28}
+        - {x: -25.5, y: 22}
+        - {x: -25.5, y: -16}
+        - {x: -19.5, y: -28}
+        - {x: 13.5, y: -28}
+        - {x: 25.5, y: -21}
+        - {x: 25.5, y: 20}
+        - {x: 19.5, y: 28}
+    - name: batch-pickups0_20
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 284
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 28}
+        - {x: -25.5, y: -24}
+        - {x: -23.5, y: -28}
+        - {x: 17.5, y: -28}
+        - {x: 25.5, y: -15}
+        - {x: 25.5, y: 22}
+        - {x: 23.5, y: 28}
+    - name: batch-pickups0_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 284
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 26.5}
+        - {x: -23.5, y: -26.5}
+        - {x: 15.5, y: -26.5}
+        - {x: 23.5, y: -21.5}
+        - {x: 23.5, y: 22.5}
+        - {x: 18.5, y: 26.5}
+    - name: batch-pickups0_22
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 245
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 52.5}
+        - {x: -49, y: 44.5}
+        - {x: -49, y: -50.5}
+        - {x: -48, y: -52.5}
+        - {x: 44, y: -52.5}
+        - {x: 49, y: -40.5}
+        - {x: 49, y: 36.5}
+        - {x: 45, y: 52.5}
+    - name: batch-pickups0_23
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 245
+        width: 101
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: 52.5}
+        - {x: -50.5, y: -34.5}
+        - {x: -43.5, y: -52.5}
+        - {x: 45.5, y: -52.5}
+        - {x: 50.5, y: -44.5}
+        - {x: 50.5, y: 52.5}
+    - name: batch-pickups0_24
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 244
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: 52.5}
+        - {x: -48.5, y: -49.5}
+        - {x: -42.5, y: -52.5}
+        - {x: 48.5, y: -52.5}
+        - {x: 48.5, y: 47.5}
+        - {x: 47.5, y: 52.5}
+    - name: batch-pickups0_25
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 244
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: 52.5}
+        - {x: -48.5, y: -49.5}
+        - {x: -42.5, y: -52.5}
+        - {x: 48.5, y: -52.5}
+        - {x: 48.5, y: 47.5}
+        - {x: 47.5, y: 52.5}
+    - name: batch-pickups0_26
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 126
+        width: 97
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: 53.5}
+        - {x: -48.5, y: 50.5}
+        - {x: -48.5, y: -51.5}
+        - {x: -43.5, y: -53.5}
+        - {x: 33.5, y: -53.5}
+        - {x: 48.5, y: -39.5}
+        - {x: 48.5, y: 33.5}
+        - {x: 27.5, y: 53.5}
+    - name: batch-pickups0_27
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2
+        width: 227
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113.5, y: -23.5}
+        - {x: 113.5, y: 29.5}
+        - {x: 86.5, y: 82.5}
+        - {x: 55.5, y: 103.5}
+        - {x: 16.5, y: 112.5}
+        - {x: -36.5, y: 112.5}
+        - {x: -100.5, y: 70.5}
+        - {x: -113.5, y: 34.5}
+        - {x: -113.5, y: -36.5}
+        - {x: -110.5, y: -58.5}
+        - {x: -65.5, y: -103.5}
+        - {x: -41.5, y: -112.5}
+        - {x: 35.5, y: -112.5}
+        - {x: 75.5, y: -91.5}
+        - {x: 103.5, y: -53.5}
+    - name: batch-pickups0_28
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2
+        width: 239
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 119.5, y: 15}
+        - {x: 118.5, y: 28}
+        - {x: 117.5, y: 58}
+        - {x: 86.5, y: 107}
+        - {x: 59.5, y: 111}
+        - {x: -40.5, y: 111}
+        - {x: -108.5, y: 69}
+        - {x: -114.5, y: 0}
+        - {x: -119.5, y: -14}
+        - {x: -119.5, y: -48}
+        - {x: -83.5, y: -89}
+        - {x: -76.5, y: -93}
+        - {x: -23.5, y: -111}
+        - {x: 48.5, y: -111}
+        - {x: 77.5, y: -92}
+        - {x: 98.5, y: -70}
+        - {x: 119.5, y: -41}
+      - - {x: -58.5, y: 105}
+        - {x: -57.5, y: 103}
+        - {x: -40.5, y: 103}
+        - {x: -35.5, y: 104}
+        - {x: -35.5, y: 111}
+        - {x: -58.5, y: 111}
+    - name: batch-pickups0_29
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 218
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: batch-pickups0_30
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 80
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 26.5}
+        - {x: -23.5, y: -26.5}
+        - {x: 15.5, y: -26.5}
+        - {x: 23.5, y: -21.5}
+        - {x: 23.5, y: 22.5}
+        - {x: 18.5, y: 26.5}
+    - name: batch-pickups0_31
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 78
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

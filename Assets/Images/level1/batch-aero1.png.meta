@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: e9174ec929d18ca448ad97396acf0149
+timeCreated: 1467217038
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: batch-aero1_0
+    21300002: batch-aero1_1
+    21300004: batch-aero1_2
+    21300006: batch-aero1_3
+    21300008: batch-aero1_4
+    21300010: batch-aero1_5
+    21300012: batch-aero1_6
+    21300014: batch-aero1_7
+    21300016: batch-aero1_8
+    21300018: batch-aero1_9
+    21300020: batch-aero1_10
+    21300022: batch-aero1_11
+    21300024: batch-aero1_12
+    21300026: batch-aero1_13
+    21300028: batch-aero1_14
+    21300030: batch-aero1_15
+    21300032: batch-aero1_16
+    21300034: batch-aero1_17
+    21300036: batch-aero1_18
+    21300038: batch-aero1_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: batch-aero1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 955
+        width: 179
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: 26}
+        - {x: -78.5, y: 25}
+        - {x: -82.5, y: 22}
+        - {x: -89.5, y: 19}
+        - {x: -89.5, y: -21}
+        - {x: -88.5, y: -26}
+        - {x: 77.5, y: -26}
+        - {x: 89.5, y: -20}
+        - {x: 89.5, y: 18}
+        - {x: 78.5, y: 26}
+    - name: batch-aero1_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 936
+        width: 140
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: 34.5}
+        - {x: -70, y: 33.5}
+        - {x: -70, y: -34.5}
+        - {x: 70, y: -34.5}
+        - {x: 70, y: 25.5}
+        - {x: 63, y: 34.5}
+    - name: batch-aero1_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 859
+        width: 140
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: 36.5}
+        - {x: -70, y: 28.5}
+        - {x: -70, y: -36.5}
+        - {x: 70, y: -36.5}
+        - {x: 70, y: 25.5}
+        - {x: 58, y: 36.5}
+    - name: batch-aero1_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 849
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 41.5}
+        - {x: -40, y: 35.5}
+        - {x: -40, y: -27.5}
+        - {x: -27, y: -41.5}
+        - {x: 24, y: -41.5}
+        - {x: 40, y: -23.5}
+        - {x: 40, y: 27.5}
+        - {x: 25, y: 41.5}
+    - name: batch-aero1_4
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 849
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 41.5}
+        - {x: -40, y: 35.5}
+        - {x: -40, y: -27.5}
+        - {x: -27, y: -41.5}
+        - {x: 24, y: -41.5}
+        - {x: 40, y: -23.5}
+        - {x: 40, y: 27.5}
+        - {x: 25, y: 41.5}
+    - name: batch-aero1_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 763
+        width: 161
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 42}
+        - {x: -80.5, y: -28}
+        - {x: -63.5, y: -42}
+        - {x: 78.5, y: -42}
+        - {x: 80.5, y: -36}
+        - {x: 80.5, y: 37}
+        - {x: 74.5, y: 42}
+    - name: batch-aero1_6
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 766
+        width: 161
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.5, y: 39.5}
+        - {x: -70.5, y: 39.5}
+        - {x: -80.5, y: 20.5}
+        - {x: -80.5, y: -16.5}
+        - {x: -79.5, y: -18.5}
+        - {x: -68.5, y: -39.5}
+        - {x: 72.5, y: -39.5}
+        - {x: 80.5, y: -26.5}
+        - {x: 80.5, y: 20.5}
+        - {x: 79.5, y: 27.5}
+    - name: batch-aero1_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 733
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: 57}
+        - {x: -54.5, y: 57}
+        - {x: -54.5, y: -47}
+        - {x: -36.5, y: -57}
+        - {x: 46.5, y: -57}
+        - {x: 54.5, y: -33}
+        - {x: 54.5, y: 45}
+    - name: batch-aero1_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 617
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: 57}
+        - {x: -54.5, y: 57}
+        - {x: -54.5, y: -47}
+        - {x: -36.5, y: -57}
+        - {x: 46.5, y: -57}
+        - {x: 54.5, y: -33}
+        - {x: 54.5, y: 45}
+    - name: batch-aero1_9
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 617
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: 57}
+        - {x: -54.5, y: 57}
+        - {x: -54.5, y: -47}
+        - {x: -36.5, y: -57}
+        - {x: 46.5, y: -57}
+        - {x: 54.5, y: -33}
+        - {x: 54.5, y: 45}
+    - name: batch-aero1_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 617
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: 57}
+        - {x: -54.5, y: 57}
+        - {x: -54.5, y: -47}
+        - {x: -36.5, y: -57}
+        - {x: 46.5, y: -57}
+        - {x: 54.5, y: -33}
+        - {x: 54.5, y: 45}
+    - name: batch-aero1_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 501
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: 57}
+        - {x: -54.5, y: 57}
+        - {x: -54.5, y: -47}
+        - {x: -36.5, y: -57}
+        - {x: 46.5, y: -57}
+        - {x: 54.5, y: -33}
+        - {x: 54.5, y: 45}
+    - name: batch-aero1_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 501
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: 57}
+        - {x: -54.5, y: 57}
+        - {x: -54.5, y: -47}
+        - {x: -36.5, y: -57}
+        - {x: 46.5, y: -57}
+        - {x: 54.5, y: -33}
+        - {x: 54.5, y: 45}
+    - name: batch-aero1_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 501
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: 57}
+        - {x: -54.5, y: 57}
+        - {x: -54.5, y: -47}
+        - {x: -36.5, y: -57}
+        - {x: 46.5, y: -57}
+        - {x: 54.5, y: -33}
+        - {x: 54.5, y: 45}
+    - name: batch-aero1_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 385
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.5, y: 57}
+        - {x: -54.5, y: 57}
+        - {x: -54.5, y: -47}
+        - {x: -36.5, y: -57}
+        - {x: 46.5, y: -57}
+        - {x: 54.5, y: -33}
+        - {x: 54.5, y: 45}
+    - name: batch-aero1_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 353
+        width: 141
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: 73}
+        - {x: -70.5, y: -62}
+        - {x: -56.5, y: -73}
+        - {x: 67.5, y: -73}
+        - {x: 70.5, y: -70}
+        - {x: 70.5, y: 51}
+        - {x: 59.5, y: 73}
+    - name: batch-aero1_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 353
+        width: 141
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: 73}
+        - {x: -70.5, y: -62}
+        - {x: -56.5, y: -73}
+        - {x: 67.5, y: -73}
+        - {x: 70.5, y: -70}
+        - {x: 70.5, y: 51}
+        - {x: 59.5, y: 73}
+    - name: batch-aero1_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 195
+        width: 147
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 77.5}
+        - {x: -73.5, y: 42.5}
+        - {x: -73.5, y: -38.5}
+        - {x: -54.5, y: -77.5}
+        - {x: 59.5, y: -77.5}
+        - {x: 73.5, y: -59.5}
+        - {x: 73.5, y: 42.5}
+        - {x: 59.5, y: 77.5}
+    - name: batch-aero1_18
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 165
+        width: 234
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117, y: 0}
+        - {x: 117, y: 59}
+        - {x: 71, y: 92}
+        - {x: -87, y: 92}
+        - {x: -117, y: 15}
+        - {x: -117, y: -58}
+        - {x: -98, y: -90}
+        - {x: -87, y: -92}
+        - {x: 5, y: -92}
+        - {x: 34, y: -85}
+        - {x: 61, y: -50}
+        - {x: 114, y: -10}
+    - name: batch-aero1_19
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 5
+        width: 23
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
